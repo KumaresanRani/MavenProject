@@ -19,7 +19,8 @@ int	a=1;
 		
 	
 		for (int i = 1; i <=5; i++) {
-			System.out.println("All is well");
+			
+			System.out.println("All is done");
 		}
 		
 		
